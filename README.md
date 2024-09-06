@@ -43,7 +43,7 @@ The Website Monitor Backend is designed to track the uptime and performance of w
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `url ` | `string` | **Required**.required and should be a valid URL. |
-| `status  ` | `string` | **Required**. optional (default is "unknown"). |
-| `lastChecked  ` | `string` | **Required**. optional (default is the current date). |
+| `url` | `string` | **Required**.required and should be a valid URL. |
+| `status` | `string` | **Required**. optional (default is "unknown"). |
+| `lastChecked` | `string` | **Required**. optional (default is the current date). |
 
